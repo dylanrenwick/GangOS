@@ -1,0 +1,12 @@
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\bin\Debug\GangOS.Common.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\bin\Debug\GangOS.Common.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.GUI.Controls.TwitchOverview.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.csproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.GUI.Controls.TwitchItem.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.GUI.Controls.CharacterItem.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.GUI.Controls.CharacterPage.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS.Common\obj\Debug\GangOS.Common.GUI.Controls.CharacterPageHeader.resources

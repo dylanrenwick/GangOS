@@ -1,0 +1,13 @@
+c:\users\dylan\documents\visual studio 2013\Projects\GangOS\GangOS\bin\Debug\GangOS.exe.config
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\bin\Debug\GangOS.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\bin\Debug\GangOS.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\bin\Debug\GangOS.Common.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\bin\Debug\GangOS.Common.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.Properties.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.csproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.APIManager.APIDialog.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\GangOS\GangOS\obj\Debug\GangOS.MainWindow.resources
