@@ -24,7 +24,7 @@ namespace GangOS.Common.GUI.Controls
             lblUsername.Text = p.Username;
             lblDNA.Text = string.Format("DNA: {0}", p.DNA.ToString());
             lblMedals.Text = string.Format("Medals: {0}", p.Medals.ToString());
-            lblGang.Text = p.gang.Name;
+            btnGang.Tag = p.gang;
         }
     }
 }

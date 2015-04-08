@@ -48,6 +48,12 @@
     <Compile Include="API\APIManager.cs" />
     <Compile Include="API\JsonApiHelper.cs" />
     <Compile Include="Gang.cs" />
+    <Compile Include="GUI\Controls\GangButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\Controls\GangButton.Designer.cs">
+      <DependentUpon>GangButton.cs</DependentUpon>
+    </Compile>
     <Compile Include="Player.cs" />
     <Compile Include="API\Twitch\Livestream.cs" />
     <Compile Include="API\Twitch\TwitchAPIManager.cs" />
@@ -101,6 +107,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Controls\CharacterPageHeader.resx">
       <DependentUpon>CharacterPageHeader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Controls\GangButton.resx">
+      <DependentUpon>GangButton.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Controls\TwitchOverview.resx">
       <DependentUpon>TwitchOverview.cs</DependentUpon>

@@ -31,7 +31,7 @@
             this.lblUsername = new System.Windows.Forms.Label();
             this.lblDNA = new System.Windows.Forms.Label();
             this.lblMedals = new System.Windows.Forms.Label();
-            this.lblGang = new System.Windows.Forms.Label();
+            this.btnGang = new GangOS.Common.GUI.Controls.GangButton();
             this.SuspendLayout();
             // 
             // lblUsername
@@ -67,24 +67,21 @@
             this.lblMedals.TabIndex = 2;
             this.lblMedals.Text = "Medals: 1,234";
             // 
-            // lblGang
+            // btnGang
             // 
-            this.lblGang.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblGang.AutoSize = true;
-            this.lblGang.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGang.Location = new System.Drawing.Point(275, 41);
-            this.lblGang.Name = "lblGang";
-            this.lblGang.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblGang.Size = new System.Drawing.Size(73, 13);
-            this.lblGang.TabIndex = 3;
-            this.lblGang.Text = "Gang Name";
-            this.lblGang.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.btnGang.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnGang.Clickable = true;
+            this.btnGang.Location = new System.Drawing.Point(226, 29);
+            this.btnGang.MinimumSize = new System.Drawing.Size(96, 38);
+            this.btnGang.Name = "btnGang";
+            this.btnGang.Size = new System.Drawing.Size(102, 38);
+            this.btnGang.TabIndex = 0;
             // 
             // CharacterPageHeader
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.lblGang);
+            this.Controls.Add(this.btnGang);
             this.Controls.Add(this.lblMedals);
             this.Controls.Add(this.lblDNA);
             this.Controls.Add(this.lblUsername);
@@ -101,6 +98,6 @@
         private System.Windows.Forms.Label lblUsername;
         private System.Windows.Forms.Label lblDNA;
         private System.Windows.Forms.Label lblMedals;
-        private System.Windows.Forms.Label lblGang;
+        private GangOS.Common.GUI.Controls.GangButton btnGang;
     }
 }
